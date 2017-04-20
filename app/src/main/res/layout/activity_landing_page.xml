@@ -39,6 +39,7 @@
                 android:layout_below="@+id/person_name"
                 android:layout_toRightOf="@+id/person_photo"
                 android:text="34 years old"/>
+            <!--test-->
 
         </RelativeLayout>
 
